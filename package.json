@@ -1,0 +1,33 @@
+{
+  "name": "stupid-check-balance",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomastimk5/stupid-check-balance.git"
+  },
+  "keywords": [
+    "stupid-check-balance",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "thomastimk5",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomastimk5/stupid-check-balance/issues"
+  },
+  "homepage": "https://github.com/thomastimk5/stupid-check-balance#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "ftm-gas-convert": "1.0.0"
+
+  }
+}
